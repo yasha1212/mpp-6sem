@@ -1,2 +1,2 @@
 # mpp-6sem
-Modern Programing Platforms: Laboratory Works
+Modern Programming Platforms: Laboratory Works
