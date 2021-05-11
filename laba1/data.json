@@ -1,0 +1,18 @@
+{
+  "containers": [
+    {
+      "id": 2,
+      "name": "New container-2",
+      "tasks": [],
+      "isShowingComplete": true
+    },
+    {
+      "id": 3,
+      "name": "New container-3",
+      "tasks": [],
+      "isShowingComplete": true
+    }
+  ],
+  "containerId": 3,
+  "taskId": 1
+}
